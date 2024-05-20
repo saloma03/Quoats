@@ -1,0 +1,2 @@
+# Quoats
+daily quoats generator
