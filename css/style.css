@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+}
+h1{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+p{
+    font-size: 35px;
+    font-family: "Itim", cursive;
+}
+button{
+    padding: 30px 50px;
+    background-color: blue;
+    color: #fff;
+}
+button:hover{
+    background-color: green;
+}
+span{
+    font-size: 35px;
+    
+}
+span::before{
+ content: "--";
+}
